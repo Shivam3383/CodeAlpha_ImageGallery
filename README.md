@@ -15,8 +15,7 @@ This is a simple and responsive Image Gallery website created using *HTML, **CSS
 2. Open index.html in your browser.
 
 ## 🔗 Live Preview
-[🔍[InternetShortcut]
-URL=file:///C:/Users/stha8/OneDrive/Desktop/images/index.html
+[🔍URL=file:///C:/Users/stha8/OneDrive/Desktop/images/index.html
  ](https://shivam311-bit.github.io/CodeAlpha_ImageGallery/) <!-- Update if needed -->
 
 ## 📎 Credits
